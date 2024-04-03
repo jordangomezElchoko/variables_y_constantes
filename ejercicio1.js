@@ -1,1 +1,2 @@
-alert("hola mundo")
+var nombre = "jordan gomez";
+console.log (nombre);
